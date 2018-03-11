@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ShellMaker.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ShellMove.cs" Line="35" Column="109" />
+      <File FileName="Assets/Scripts/MyShip.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ShellDestroyer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ShellMaker.cs" Line="12" Column="29" />
+      <File FileName="Assets/Scripts/Enemy1Script.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ButtonScripts/ButtonLeft.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
